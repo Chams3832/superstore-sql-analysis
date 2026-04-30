@@ -21,24 +21,32 @@ Source: Superstore dataset (Kaggle)
 Records: 9,994 rows
 Type: Transactional retail data
 Features: Sales, Profit, Customers, Products, Regions, Discounts
+
 🛠️ Tools Used
 MySQL / MariaDB
 HeidiSQL
 Power BI
 SQL (GROUP BY, JOIN, Aggregations, HAVING)
+
 📊 Key Insights
+
 💰 Sales Performance
 Strong overall revenue across all regions
 Revenue is concentrated in a small number of products (Pareto effect)
+
 📈 Profitability Analysis
 Some high-revenue products generate negative profit
 Discounts significantly impact margins
+
 🌍 Regional Performance
 Profitability varies across regions, not just sales volume
+
 🏆 Product Dependency
 Business heavily depends on a small set of top products
+
 👥 Customer Behavior
 A small number of customers contribute most of the revenue
+
 📸 Power BI Dashboard
 Sales by Product (Top 10)
 Profit by Category
@@ -63,12 +71,13 @@ Optimize pricing strategy
 Improve regional performance
 Target high-value customers
 Increase overall profitability
+
 🔮 Future Improvements
 Time-series analysis (monthly trends)
 Customer segmentation (RFM analysis)
 Predictive sales modeling (Python)
 Interactive Power BI dashboard
-👨‍💻 Author
 
+👨‍💻 Author
 Samsoudine Bassirou Hamadou
 Data Analyst | SQL | Python | Power BI | Tableau
